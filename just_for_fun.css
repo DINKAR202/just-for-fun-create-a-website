@@ -1,0 +1,138 @@
+.allbox{
+    height: 540px;
+    width: 1000px;
+}
+.header{
+    background-color: hotpink;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    font-size: 18px;
+}
+.Home{
+    color: white;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 0px;
+    width: 200px;
+    font-size: 18px;
+    border: 5px solid darkgreen;
+}
+.About{
+    color: white;
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 0px;
+    width: 200px;
+    font-size: 18px;
+}
+.Course{
+    color: white;
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 0px;
+    width: 200px;
+    font-size: 18px;
+}
+.Gallery{
+    color: white;
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 0px;
+    width: 200px;
+    font-size: 18px;
+}
+.Contact{
+    color: white;
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 0px;
+    width: 200px;
+    font-size: 18px;
+}
+.allbox-2{
+    background-color: grey;
+    height: 400px;
+    width: 100%;
+    display: flex;
+}
+.header-2{
+    height: 400px;
+    width: 250px;
+}
+.Contact-2{
+    color: white;
+    margin-top: 55px;
+    margin-left: 15px;
+    font-size: 16px;
+    text-align: center;
+}
+.Home-2{
+    color: white;
+    margin-top: 42px;
+    margin-left: 15px;
+    font-size: 20px;
+    text-align: center;
+}
+.About-2{
+    color: white;
+    margin-top: 46px;
+    margin-left: 15px;
+    font-size: 16px;
+    text-align: center;
+}
+.Course-2{
+    color: white;
+    margin-top: 48px;
+    margin-left: 15px;
+    font-size: 16px;
+    text-align: center;
+}
+.Gallery-2{
+    color: white;
+    margin-top: 50px;
+    margin-left: 15px;
+    font-size: 16px;
+    text-align: center;
+}
+.img{
+    background-color: blueviolet;
+    width: 750px;
+    height: 400px;
+}
+.imgg img{
+    height: 400px;
+    width: 750px;
+}
+.headre-3{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100%;
+    display: flex;
+}
+.header-03{
+    background-color: brown;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.lastheader{
+    background-color: white;
+    width: 100%;
+    height: 175px;
+    display: flex;
+}
+.image2 img{
+    background-color: white;
+    width: 247px;
+    height: 175px;
+    
+}
+ .pic05 img{
+    display: flex;
+    width: 200px;
+    height: 175px;
+    display: flex;
+} 
